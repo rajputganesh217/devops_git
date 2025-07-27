@@ -5,6 +5,6 @@ public  class Sum {
          int b = 6;
        
 
-         System.out.println(india+pakistan)
+         System.out.println(a+b);
        }
 }
